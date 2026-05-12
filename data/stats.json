@@ -1,0 +1,16 @@
+{
+  "synthetic_low": {
+    "students": 500,
+    "interactions": 75157,
+    "skills": 10,
+    "avg_per_student": 150.3,
+    "overall_accuracy": 0.2328
+  },
+  "synthetic_high": {
+    "students": 500,
+    "interactions": 94974,
+    "skills": 25,
+    "avg_per_student": 189.9,
+    "overall_accuracy": 0.3773
+  }
+}
