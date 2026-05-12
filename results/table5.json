@@ -1,0 +1,31 @@
+[
+  {
+    "model": "Rule-based only",
+    "F1": 0.27902399254600513,
+    "ROUGE-L": 0.18459967469553398,
+    "FER": 0.5675675675675675,
+    "TeacherLikert": NaN
+  },
+  {
+    "model": "LLM-only (FLAN-T5 proxy)",
+    "F1": 0.8250904014531835,
+    "ROUGE-L": 0.17155390406095677,
+    "FER": 0.0,
+    "TeacherLikert": NaN
+  },
+  {
+    "model": "ATS Hybrid (LLM + Symbolic)",
+    "F1": 0.44705592510470554,
+    "ROUGE-L": 0.16941245778871697,
+    "FER": 0.0,
+    "TeacherLikert": NaN,
+    "RoutedToReview": 103
+  },
+  {
+    "model": "Teacher-authored (gold)",
+    "F1": 1.0,
+    "ROUGE-L": 1.0,
+    "FER": 0.0,
+    "TeacherLikert": NaN
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "policy": "Random",
+    "TTM_mean": 88.48921044069489,
+    "TTM_std": 0.5045521507998799,
+    "NLG_mean": 0.14358077462169283,
+    "NLG_std": 0.0009235533136824606,
+    "GainVar": 0.0003558262486441343,
+    "cohort": "Low-engagement"
+  },
+  {
+    "policy": "Greedy",
+    "TTM_mean": 125.6393955041716,
+    "TTM_std": 0.5649026359137193,
+    "NLG_mean": 0.12577016224676618,
+    "NLG_std": 0.002696824184077198,
+    "GainVar": 0.0034626175944554665,
+    "cohort": "Low-engagement"
+  },
+  {
+    "policy": "ATS Bandit (TS)",
+    "TTM_mean": 121.18107003402596,
+    "TTM_std": 0.4690048967770759,
+    "NLG_mean": 0.13589598512890846,
+    "NLG_std": 0.0013345598124139071,
+    "GainVar": 0.0011044508852781209,
+    "cohort": "Low-engagement"
+  },
+  {
+    "policy": "Random",
+    "TTM_mean": 76.06248168852473,
+    "TTM_std": 0.6572329536664233,
+    "NLG_mean": 0.15266552741893252,
+    "NLG_std": 0.0009289772405277551,
+    "GainVar": 0.00042194559139140136,
+    "cohort": "High-engagement"
+  },
+  {
+    "policy": "Greedy",
+    "TTM_mean": 118.03165901817663,
+    "TTM_std": 0.3195265634410018,
+    "NLG_mean": 0.1292590412196103,
+    "NLG_std": 0.0015253331074535094,
+    "GainVar": 0.00475355669399071,
+    "cohort": "High-engagement"
+  },
+  {
+    "policy": "ATS Bandit (TS)",
+    "TTM_mean": 111.73183185931487,
+    "TTM_std": 0.9111988290970674,
+    "NLG_mean": 0.13994260407711187,
+    "NLG_std": 0.00195828156525604,
+    "GainVar": 0.0018825614047389891,
+    "cohort": "High-engagement"
+  }
+]
