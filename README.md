@@ -3,7 +3,7 @@
 Reproducibility code for:
 **"Personalising STEM Learning at Scale: An Adaptive AI Tutoring Suite
 with Student Modeling, Curriculum Sequencing, and Explainable Formative Feedback"**
-*Education Sciences, MDPI (submitted 2025)*
+*Education Sciences, MDPI (submitted 2026)*
 
 ---
 
